@@ -1,0 +1,50 @@
+.primary{
+    background-color: #0E185F;
+    color: white;
+    font-weight: bold;
+}
+
+.success{
+    background-color: #379237;
+    color: white;
+    font-weight: bold;
+}
+
+.secondary{
+    background-color: #EEEEEE;
+    color: black !important;
+    font-weight: bold;
+}
+
+.danger{
+    background-color: #FF1700;
+    color: white;
+    font-weight: bold;
+}
+
+.button{
+    border: none;
+    padding: 15px 32px;
+    color: white;
+    text-decoration: none;
+    display:inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px !important;;
+
+}
+
+.small{
+    height:14px;
+    width: 20px !important;;
+}
+
+.medium{
+    height:24px;
+    width: 30px !important;;
+}
+
+.large{
+    height:64px;
+    width: 80px !important;;
+}
