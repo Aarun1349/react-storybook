@@ -2,7 +2,7 @@ import React from "react";
 import MyInput from "./MyInput";
 
 export default {
-  title: "My Input",
+  title: "form/Input",
   component: MyInput,
 };
 
@@ -15,3 +15,6 @@ export const Medium = () => (
 export const Large = () => (
   <MyInput variant="large" type="number" placeholder="4692199474"></MyInput>
 );
+
+
+Small.storyName = "Small Input";
